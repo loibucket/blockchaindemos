@@ -10,14 +10,14 @@ Instructions:
 - Install Metamask extension for Chrome
 
 
-Open a terminal at ```/Coin``` or ```/SimpleToken ```dir, and run
+Open a terminal at ```/Coin``` or ```/SimpleToken``` dir, and run
 ```
 truffle develop
 truffle compile
 truffle migrate --reset
 ```
 
-Open another terminal at ```/Coin``` or ```/SimpleToken ```dir, and run
+Open another terminal at ```/Coin``` or ```/SimpleToken``` dir, and run
 ```
 npm install
 npm install lite-server
