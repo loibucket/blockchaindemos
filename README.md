@@ -1,4 +1,4 @@
-# Coin + SimpleToken DApp
+# Custom Coin + NFT on Ethereum
 
 Mint NFTs and transfer them to others
 
