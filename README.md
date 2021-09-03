@@ -6,7 +6,8 @@ Instructions:
 
 - Install Truffle
 - Install NPM
-- Install Metamask
+- Install Chrome
+- Install Metamask extension for Chrome
 
 
 Open a terminal at ```/Coin``` or ```/SimpleToken ```dir, and run
@@ -16,13 +17,14 @@ truffle compile
 truffle migrate --reset
 ```
 
-Open another terminal at ```/Coin``` or ```/SimpleToken ```dir and run
+Open another terminal at ```/Coin``` or ```/SimpleToken ```dir, and run
 ```
 npm install
 npm install lite-server
 npm run dev
 ```
 
-go to localhost:3000
-connect metamask to localhost:9545
-add truffle wallet to metamask
+- with Chrome, go to localhost:3000
+- connect metamask to localhost:9545
+- add wallet mnemoinc from ```truffle develop``` to metamask
+- make some coins, make some NFTs, send them around
